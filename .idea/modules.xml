@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/FormTest.iml" filepath="$PROJECT_DIR$/FormTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../RadiobuttonTest/RadiobuttonTest.iml" filepath="$PROJECT_DIR$/../RadiobuttonTest/RadiobuttonTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SelectTest/SelectTest.iml" filepath="$PROJECT_DIR$/../SelectTest/SelectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CheckboxesTest/spring_mvc_01_30.iml" filepath="$PROJECT_DIR$/../CheckboxesTest/spring_mvc_01_30.iml" />
     </modules>
   </component>
 </project>
